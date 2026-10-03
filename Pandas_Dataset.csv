@@ -1,0 +1,122 @@
+Order_ID,Order_Date,Customer,City,Category,Product,Quantity,Unit_Price,Discount_Percent,Payment_Mode,Rating,Delivery_Date
+ORD0001,2026-04-13,Meena Nair,Mumbai,Books,Excel Book,3.0,650,20.0,Cash,2.0,2026-04-16
+ORD0002,2026-03-16,Meena Nair,Chennai,Home,Backpack,4.0,2200,20.0,Card,4.0,2026-03-24
+ORD0003,2026-06-07,Divya Rao,Bangalore,Clothing,Shoes,1.0,2500,20.0,Net Banking,1.0,2026-06-08
+ORD0004,2026-02-18,Divya Rao,Pune,Home,Mixer,3.0,5000,10.0,Net Banking,4.0,2026-02-20
+ORD0005,2026-03-05,Vikram Patel,Mumbai,Electronics,Headphones,1.0,3000,0.0,Cash,2.0,2026-03-08
+ORD0006,2026-05-12,Pooja Iyer,Hyderabad,Electronics,Monitor,2.0,18000,5.0,UPI,2.0,2026-05-14
+ORD0007,2026-03-25,Meena Nair,Chennai,Books,DSA Book,3.0,900,0.0,Net Banking,2.0,2026-03-29
+ORD0008,2026-04-14,Anjali Singh,Hyd,Books,SQL Book,2.0,750,15.0,Card,5.0,2026-04-20
+ORD0009,2026-05-26,Sneha Rao,Delhi,Clothing,Shoes,2.0,2500,15.0,UPI,5.0,2026-05-28
+ORD0010,2026-03-23,Divya Rao,Pune,Sports,Football,1.0,1800,20.0,UPI,5.0,2026-03-27
+ORD0011,2026-01-15,Rohit Verma,Hyderabad,Sports,Cricket Bat,1.0,3500,15.0,Net Banking,3.0,2026-01-22
+ORD0012,2026-03-22,Kiran Das,Bangalore,Home,Mixer,1.0,5000,5.0,UPI,4.0,2026-03-25
+ORD0013,2026-05-15,Vikram Patel,Delhi,Electronics,Monitor,2.0,18000,20.0,Cash,4.0,2026-05-16
+ORD0014,2026-04-14,Kiran Das,Delhi,Home,Mixer,1.0,5000,10.0,UPI,5.0,2026-04-17
+ORD0015,2026-05-22,Pooja Iyer,Bangalore,Home,Chair,3.0,7500,15.0,UPI,3.0,2026-05-29
+ORD0016,2026-03-04,Sneha Rao,Delhi,Electronics,Monitor,1.0,18000,20.0,Cash,5.0,2026-03-12
+ORD0017,2026-05-23,Vikram Patel,Chennai,Home,Backpack,4.0,2200,10.0,Card,4.0,2026-05-28
+ORD0018,2026-03-07,Kiran Das,Delhi,Clothing,Hoodie,2.0,2800,15.0,Net Banking,4.0,2026-03-08
+ORD0019,2026-02-13,Vikram Patel,HYD,Books,ML Book,4.0,950,0.0,Cash,1.0,2026-02-15
+ORD0020,2026-05-09,Sneha Rao,Mumbai,Electronics,Headphones,2.0,3000,0.0,Cash,3.0,2026-05-10
+ORD0021,2026-05-17,Divya Rao,Chennai,Sports,Cricket Bat,3.0,3500,0.0,Net Banking,1.0,2026-05-19
+ORD0022,2026-03-03,Vikram Patel,Bangalore,Electronics,Mobile,4.0,25000,10.0,UPI,5.0,2026-03-07
+ORD0023,2026-04-23,Priya Reddy,Pune,Electronics,Headphones,1.0,3000,20.0,Net Banking,1.0,2026-04-25
+ORD0024,2026-05-09,Pooja Iyer,Delhi,Home,Lamp,1.0,1800,15.0,Cash,3.0,2026-05-13
+ORD0025,2026-05-03,Anjali Singh,Delhi,Electronics,Smartwatch,4.0,12000,10.0,Cash,1.0,2026-05-05
+ORD0026,2026-05-04,Divya Rao,Chennai,Home,Backpack,3.0,2200,15.0,Cash,2.0,2026-05-08
+ORD0027,2026-05-27,Meena Nair,Bangalore,Books,DSA Book,1.0,900,0.0,Cash,4.0,2026-05-28
+ORD0028,2026-06-27,Pooja Iyer,Hyderabad,Clothing,Jacket,3.0,3500,15.0,Net Banking,1.0,2026-07-01
+ORD0029,2026-01-02,Amit Kumar,Hyderabad,Electronics,Monitor,1.0,18000,0.0,Cash,3.0,2026-01-07
+ORD0030,2026-02-17,Meena Nair,Hyderabad,Home,Table,4.0,9000,15.0,Cash,1.0,2026-02-23
+ORD0031,2026-06-13,Rohit Verma,Chennai,Books,ML Book,4.0,950,0.0,UPI,2.0,2026-06-19
+ORD0032,2026-05-08,Rohit Verma,B'lore,Clothing,Jeans,2.0,2200,0.0,Net Banking,1.0,2026-05-11
+ORD0033,2026-05-22,Meena Nair,Chennai,Sports,Yoga Mat,4.0,1200,0.0,Net Banking,1.0,2026-05-30
+ORD0034,2026-06-25,Vikram Patel,Delhi,Books,ML Book,3.0,950,20.0,Cash,3.0,2026-07-01
+ORD0035,2026-01-27,Divya Rao,Hyderabad,Clothing,Hoodie,2.0,2800,20.0,Net Banking,5.0,2026-01-28
+ORD0036,2026-02-17,Rahul Sharma,Hyderabad,Home,Table,3.0,9000,15.0,Net Banking,5.0,2026-02-25
+ORD0037,2026-02-15,Kiran Das,Mumbai,Sports,Badminton Racket,4.0,2200,0.0,Card,5.0,2026-02-16
+ORD0038,2026-04-05,Kiran Das,Hyderabad,Home,Table,1.0,9000,10.0,Net Banking,2.0,2026-04-09
+ORD0039,2026-01-25,Meena Nair,Bangalore,Clothing,Jeans,3.0,2200,5.0,Cash,3.0,2026-02-02
+ORD0040,2026-05-10,Rohit Verma,Chennai,Clothing,T-Shirt,4.0,1200,20.0,Card,2.0,2026-05-11
+ORD0041,2026-04-09,Divya Rao,Bangalore,Clothing,T-Shirt,4.0,1200,0.0,Net Banking,5.0,2026-04-14
+ORD0042,2026-01-20,Divya Rao,Bangalore,Electronics,Monitor,3.0,18000,5.0,Net Banking,3.0,2026-01-27
+ORD0043,2026-06-02,Pooja Iyer,Delhi,Clothing,Hoodie,2.0,2800,0.0,Net Banking,2.0,2026-06-04
+ORD0044,2026-03-11,Meena Nair,Mumbai,Home,Table,1.0,9000,15.0,Net Banking,4.0,2026-03-12
+ORD0045,2026-01-05,Arjun Kumar,Pune,Books,Excel Book,4.0,650,20.0,UPI ,4.0,2026-01-09
+ORD0046,2026-04-16,Arjun Kumar,Pune,Home,Chair,4.0,7500,5.0,Cash,2.0,2026-04-23
+ORD0047,2026-04-27,Pooja Iyer,Bangalore,Electronics,Monitor,1.0,18000,0.0,Cash,2.0,2026-04-28
+ORD0048,2026-04-06,Vikram Patel,Mumbai,Electronics,Smartwatch,1.0,12000,20.0,Cash,3.0,2026-04-07
+ORD0049,2026-03-17,Rohit Verma,Mumbai,Clothing,Jacket,1.0,3500,15.0,UPI,1.0,2026-03-23
+ORD0050,2026-04-04,Pooja Iyer,Bangalore,Books,Excel Book,4.0,650,20.0,Cash,4.0,2026-04-12
+ORD0051,2026-02-02,Kiran Das,Pune,Sports,Football,2.0,1800,5.0,Net Banking,2.0,2026-02-08
+ORD0052,2026-05-27,Sneha Rao,Bangalore,Clothing,T-Shirt,4.0,1200,0.0,Net Banking,3.0,2026-06-01
+ORD0053,2026-03-25,Rahul Sharma,Hyderabad,Books,SQL Book,3.0,750,20.0,Cash,3.0,2026-03-29
+ORD0054,2026-04-11, Rahul Sharma ,Bangalore,Books,ML Book,1.0,950,10.0,Net Banking,5.0,2026-04-12
+ORD0055,2026-05-21,Priya Reddy,Chennai,Books,SQL Book,1.0,750,0.0,Card,5.0,2026-05-24
+ORD0056,2026-06-03,Arjun Kumar,Hyderabad,Clothing,Jeans,2.0,2200,15.0,Card,5.0,2026-06-05
+ORD0057,2026-04-24,Sneha Rao,Hyderabad,Sports,Badminton Racket,1.0,2200,20.0,UPI,1.0,2026-05-02
+ORD0058,2026-06-13,Arjun Kumar,Hyderabad,Clothing,Hoodie,1.0,2800,10.0,Net Banking,4.0,2026-06-21
+ORD0059,2026-04-06,Vikram Patel,Hyderabad,Sports,Yoga Mat,1.0,1200,10.0,UPI,1.0,2026-04-13
+ORD0060,2026-04-23,Amit Kumar,Chennai,Books,Python Book,2.0,800,0.0,Net Banking,4.0,2026-04-28
+ORD0061,2026-05-27,Sneha Rao,Chennai,Books,Python Book,3.0,800,5.0,Cash,5.0,2026-05-31
+ORD0062,2026-03-10,Amit Kumar,Mumbai,Home,Table,1.0,9000,15.0,UPI,1.0,2026-03-14
+ORD0063,2026-02-08,Vikram Patel,Delhi,Sports,Tennis Balls,2.0,900,5.0,UPI,3.0,2026-02-10
+ORD0064,2026-03-16,Pooja Iyer,Pune,Clothing,Shoes,1.0,2500,0.0,UPI,5.0,2026-03-18
+ORD0065,2026-06-17,Pooja Iyer,Bangalore,Clothing,T-Shirt,2.0,1200,20.0,UPI,5.0,2026-06-20
+ORD0066,2026-06-15,Sneha Rao,Hyderabad,Home,Backpack,1.0,2200,0.0,UPI,4.0,2026-06-21
+ORD0067,2026-02-05,Anjali Singh,Chennai,Books,ML Book,1.0,950,5.0,Card,3.0,2026-02-09
+ORD0068,2026-02-08,Divya Rao,Delhi,Home,Backpack,1.0,2200,5.0,Net Banking,4.0,2026-02-10
+ORD0069,2026-03-02,Divya Rao,Delhi,Electronics,Laptop,3.0,65000,0.0,Cash,,2026-03-07
+ORD0070,2026-04-23,Anjali Singh,Bangalore,Electronics,Laptop,2.0,65000,15.0,UPI,5.0,2026-04-28
+ORD0071,2026-03-02,Kiran Das,Pune,Sports,Tennis Balls,3.0,900,10.0,Cash,4.0,2026-03-06
+ORD0072,2026-05-26,Rahul Sharma,Mumbai,Electronics,Laptop,2.0,65000,10.0,Net Banking,1.0,2026-06-02
+ORD0073,2026-01-12,Kiran Das,Bangalore,Clothing,Shoes,4.0,2500,15.0,Net Banking,2.0,2026-01-16
+ORD0074,2026-05-16,Divya Rao,Mumbai,Clothing,Shoes,2.0,2500,0.0,Net Banking,3.0,2026-05-20
+ORD0075,2026-05-25,Divya Rao,Mumbai,Electronics,Laptop,1.0,65000,20.0,Card,3.0,2026-05-29
+ORD0076,2026-05-14,Rohit Verma,Bangalore,Clothing,Jacket,4.0,3500,5.0,Net Banking,2.0,2026-05-19
+ORD0077,2026-04-19,Priya Reddy,Hyderabad,Sports,Cricket Bat,2.0,3500,,UPI,2.0,2026-04-20
+ORD0078,2026-03-04,Rahul Sharma,Bangalore,Electronics,Headphones,3.0,3000,0.0,Cash,1.0,2026-03-05
+ORD0079,2026-05-29,Kiran Das,Delhi,Books,Python Book,1.0,800,10.0,UPI,5.0,2026-06-05
+ORD0080,2026-02-22,Rahul Sharma,Mumbai,Sports,Football,2.0,1800,0.0,Card,1.0,2026-02-25
+ORD0081,2026-02-20,Rahul Sharma,Hyderabad,Sports,Tennis Balls,4.0,900,5.0,Net Banking,2.0,2026-02-26
+ORD0082,2026-06-11,Rahul Sharma,Delhi,Home,Mixer,2.0,5000,15.0,UPI,3.0,2026-06-15
+ORD0083,2026-02-26,Priya Reddy,Chennai,Electronics,Smartwatch,1.0,12000,10.0,Cash,4.0,2026-03-04
+ORD0084,2026-02-07,Amit Kumar,Chennai,Clothing,Jeans,2.0,2200,5.0,Net Banking,1.0,2026-02-13
+ORD0085,2026-06-15,Pooja Iyer,Chennai,Electronics,Monitor,2.0,18000,0.0,UPI,5.0,2026-06-22
+ORD0086,2026-05-12,Divya Rao,Pune,Clothing,T-Shirt,2.0,1200,20.0,Card,5.0,2026-05-13
+ORD0087,2026-05-06,Arjun Kumar,Hyderabad,Home,Mixer,4.0,5000,10.0,Card,4.0,2026-05-09
+ORD0088,2026-04-14,Arjun Kumar,Chennai,Books,Python Book,3.0,800,20.0,Net Banking,2.0,2026-04-22
+ORD0089,2026-03-02,Kiran Das,Bangalore,Clothing,Jacket,3.0,3500,15.0,Card,5.0,2026-03-07
+ORD0090,2026-01-22,Divya Rao,Bangalore,Sports,Cricket Bat,1.0,3500,5.0,UPI,2.0,2026-01-23
+ORD0091,2026-02-14,Rohit Verma,Delhi,Home,Chair,2.0,7500,10.0,Cash,5.0,2026-02-15
+ORD0092,2026-03-22,Rahul Sharma,Chennai,Clothing,Shoes,1.0,2500,20.0,Net Banking,2.0,
+ORD0093,2026-01-28,Amit Kumar,Chennai,Clothing,Hoodie,2.0,2800,10.0,Cash,3.0,2026-02-03
+ORD0094,2026-01-18,Rohit Verma,Mumbai,Clothing,Jacket,3.0,3500,15.0,Card,1.0,2026-01-25
+ORD0095,2026-01-17,Sneha Rao,Hyderabad,Clothing,Shoes,1.0,2500,15.0,Card,3.0,2026-01-18
+ORD0096,2026-04-19,Priya Reddy,Hyderabad,Clothing,Shoes,3.0,2500,15.0,Cash,2.0,2026-04-25
+ORD0097,2026-06-18,Priya Reddy,Chennai,Sports,Yoga Mat,2.0,1200,10.0,UPI,5.0,2026-06-26
+ORD0098,2026-05-01,Anjali Singh,Delhi,Electronics,Smartwatch,2.0,12000,15.0,Card,3.0,2026-05-06
+ORD0099,2026-03-03,Meena Nair,Mumbai,Electronics,Headphones,3.0,3000,15.0,Net Banking,2.0,2026-03-10
+ORD0100,2026-03-16,Anjali Singh,Chennai,Books,Python Book,2.0,800,0.0,Card,3.0,2026-03-24
+ORD0101,2026-05-16,Kiran Das,Delhi,Clothing,Jacket,1.0,3500,5.0,Card,4.0,2026-05-20
+ORD0102,2026-01-19,Divya Rao,Hyderabad,Books,Python Book,4.0,800,5.0,Card,5.0,2026-01-20
+ORD0103,2026-05-06,Arjun Kumar,Hyderabad,Home,Table,1.0,9000,5.0,Net Banking,2.0,2026-05-09
+ORD0104,2026-01-05,Meena Nair,Bangalore,Clothing,Shoes,2.0,2500,15.0,UPI,5.0,2026-01-10
+ORD0105,2026-03-14,Meena Nair,Delhi,Electronics,Laptop,3.0,65000,10.0,Card,1.0,2026-03-21
+ORD0106,2026-03-10,Kiran Das,Chennai,Books,DSA Book,,900,0.0,Card,4.0,2026-03-16
+ORD0107,2026-02-04,Meena Nair,Chennai,Electronics,Monitor,4.0,18000,0.0,UPI,4.0,2026-02-09
+ORD0108,2026-01-30,Arjun Kumar,Chennai,Home,Backpack,1.0,2200,5.0,Card,4.0,2026-02-04
+ORD0109,2026-03-30,Meena Nair,Delhi,Sports,Football,1.0,1800,10.0,UPI,1.0,2026-04-01
+ORD0110,2026-01-23,Vikram Patel,Bangalore,Electronics,Laptop,1.0,65000,20.0,Net Banking,3.0,2026-01-24
+ORD0111,2026-02-08,Meena Nair,Bangalore,Home,Mixer,3.0,5000,15.0,Cash,5.0,2026-02-11
+ORD0112,2026-02-02,Anjali Singh,Hyderabad,Books,ML Book,4.0,950,0.0,UPI,5.0,2026-02-07
+ORD0113,2026-06-04,Pooja Iyer,Mumbai,Electronics,Monitor,2.0,18000,10.0,Card,1.0,2026-06-06
+ORD0114,2026-04-28,Sneha Rao,Mumbai,Sports,Yoga Mat,1.0,1200,20.0,UPI,4.0,2026-05-06
+ORD0115,2026-03-17,Arjun Kumar,Chennai,Sports,Football,3.0,1800,15.0,Net Banking,2.0,2026-03-24
+ORD0116,2026-02-12,Pooja Iyer,Delhi,Home,Backpack,4.0,2200,5.0,Card,3.0,2026-02-15
+ORD0117,2026-05-20,Priya Reddy,Hyderabad,Clothing,Hoodie,4.0,2800,0.0,Cash,4.0,2026-05-26
+ORD0118,2026-06-20,Sneha Rao,Mumbai,Books,DSA Book,4.0,900,20.0,Net Banking,2.0,2026-06-28
+ORD0119,2026-04-02,Meena Nair,Hyderabad,Clothing,T-Shirt,2.0,1200,10.0,Cash,1.0,2026-04-05
+ORD0120,2026-02-15,Sneha Rao,Delhi,Sports,Tennis Balls,2.0,900,0.0,UPI,3.0,2026-02-21
+ORD0011,2026-01-15,Rohit Verma,Hyderabad,Sports,Cricket Bat,1.0,3500,15.0,Net Banking,3.0,2026-01-22

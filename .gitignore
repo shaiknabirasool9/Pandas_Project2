@@ -1,0 +1,35 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter-generated checkpoints
+.ipynb_checkpoints/
+
+# Editor-local VS Code files; keep shareable workspace configuration
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/settings.json
+!.vscode/tasks.json
+
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+
+# Logs and operating-system metadata
+*.log
+.DS_Store
+Thumbs.db
